@@ -43,6 +43,7 @@ Ejecutar el sistema y observar el comportamiento del semáforo.
 Presionar el botón de pánico para activar la emergencia y verificar que todos los semáforos se pongan en amarillo y el LED de pánico se encienda.
 
 Analisis
+![Ejemplo de Imagen](./_708926c4-e533-4d65-9738-41fda49395db.jpg)
 Análisis de la Simulación
 Aunque la simulación se realizó de manera apresurada, los resultados demostraron que el sistema funcionó tal y como se esperaba. La implementación del botón de pánico es una característica crucial para situaciones de emergencia, ya que permite que todos los semáforos se pongan en amarillo y se active un LED de pánico. Esto puede ayudar a prevenir accidentes y proteger a las personas en peligro al detener el tráfico y alertar a los conductores y peatones de la emergencia.
 
