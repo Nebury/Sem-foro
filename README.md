@@ -21,6 +21,8 @@ S3 (Amarillo en Bulevard Bravado)
 S4 (Panico)
 
 Entradas y Salidas
+
+![Ejemplo de Imagen](./imagen_2024-05-14_091402762.png)
 Entradas
 TA: Gente circulando en Avenida Academic
 TB: Gente circulando en Bulevard Bravado
