@@ -30,16 +30,26 @@ E: Emergencia
 P: Panico
 
 Salidas
-Green: Luz verde del semáforo
-Yellow: Luz amarilla del semáforo
-Red: Luz roja del semáforo
-P: LED de pánico
+LA1
+LA0
+LB1
+LB0
+P
 
 Instrucciones de Uso
 Conectar la placa Basys al ordenador.
 Programar la placa con el archivo SystemVerilog correspondiente.
 Ejecutar el sistema y observar el comportamiento del semáforo.
 Presionar el botón de pánico para activar la emergencia y verificar que todos los semáforos se pongan en amarillo y el LED de pánico se encienda.
+
+Analisis
+Análisis de la Simulación
+Aunque la simulación se realizó de manera apresurada, los resultados demostraron que el sistema funcionó tal y como se esperaba. La implementación del botón de pánico es una característica crucial para situaciones de emergencia, ya que permite que todos los semáforos se pongan en amarillo y se active un LED de pánico. Esto puede ayudar a prevenir accidentes y proteger a las personas en peligro al detener el tráfico y alertar a los conductores y peatones de la emergencia.
+
+Funcionamiento del Botón de Pánico
+Estado Amarillo Universal: Al presionar el botón de pánico, todos los semáforos cambian inmediatamente al estado amarillo, alertando a los conductores de detenerse y ceder el paso.
+LED de Pánico: La activación del LED de pánico proporciona una señal visual adicional para indicar que se ha producido una situación de emergencia.
+Beneficios de Seguridad: Esta característica mejora la seguridad vial al proporcionar una respuesta rápida y efectiva en situaciones de emergencia, ayudando a proteger a los peatones y conductores.
 
 Contribuciones
 Este proyecto fue desarrollado por Luis David Serrano Conde. Si tienes alguna pregunta o sugerencia, no dudes en contactar.
