@@ -11,6 +11,9 @@ Al presionar el botón de pánico, todos los semáforos se ponen en amarillo.
 Se enciende un LED de pánico para indicar el estado de emergencia.
 
 Estados del Semáforo
+
+![Ejemplo de Imagen](./imagen_2024-05-14_091148707.png)
+
 S0 (Verde en Avenida Academic)
 S1 (Amarillo en Avenida Academic)
 S2 (Verde en Bulevard Bravado)
